@@ -32,4 +32,5 @@ O processo transformou dados brutos e não confiáveis em **informação estrat�
 
 ---
 **Aluno:** Otávio Castelani e Francisco Moreira
+
 **Curso:** Engenharia da Computação - FUCAPI

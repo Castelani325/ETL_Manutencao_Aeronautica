@@ -1,0 +1,8 @@
+matricula_aeronave,componente,horas_voo_atuais,tbo_horas_limite,custo_manutencao_previsto,data_ultima_inspecao
+FAB-2850,Motor PT6,1800.5,2000,15000.0,2024-01-10
+FAB-2401,Radar Meteorológico,200.0,5000,2500.0,2023-11-22
+FAB-2850,Motor PT6,1800.5,2000,15000.0,2024-01-10
+FAB-5500,Trem de Pouso,4200.0,4000,45000.0,
+FAB-2401,Altímetro,-50.0,1000,300.0,2024-02-15
+FAB-9999,,10.0,100,0.0,2024-01-01
+CIV-PT-X,Hélice,500.0,2000,1200.0,2023-05-20
